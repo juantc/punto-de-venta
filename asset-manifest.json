@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/punto-de-venta/static/css/main.e561cc39.chunk.css",
-    "main.js": "/punto-de-venta/static/js/main.9d0e92fd.chunk.js",
-    "main.js.map": "/punto-de-venta/static/js/main.9d0e92fd.chunk.js.map",
+    "main.js": "/punto-de-venta/static/js/main.e37c4834.chunk.js",
+    "main.js.map": "/punto-de-venta/static/js/main.e37c4834.chunk.js.map",
     "runtime-main.js": "/punto-de-venta/static/js/runtime-main.7b68479a.js",
     "runtime-main.js.map": "/punto-de-venta/static/js/runtime-main.7b68479a.js.map",
     "static/css/2.150d169a.chunk.css": "/punto-de-venta/static/css/2.150d169a.chunk.css",
@@ -13,13 +13,15 @@
     "static/css/main.e561cc39.chunk.css.map": "/punto-de-venta/static/css/main.e561cc39.chunk.css.map",
     "static/js/2.580b7b3a.chunk.js.LICENSE.txt": "/punto-de-venta/static/js/2.580b7b3a.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/punto-de-venta/static/media/comanda.fc4c9787.png",
-    "static/media/login.scss": "/punto-de-venta/static/media/passwordhover.aab4b652.svg"
+    "static/media/login.scss": "/punto-de-venta/static/media/passwordhover.aab4b652.svg",
+    "static/media/logo.a9757059.svg": "/punto-de-venta/static/media/logo.a9757059.svg",
+    "static/media/search.c031f9ef.svg": "/punto-de-venta/static/media/search.c031f9ef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7b68479a.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.580b7b3a.chunk.js",
     "static/css/main.e561cc39.chunk.css",
-    "static/js/main.9d0e92fd.chunk.js"
+    "static/js/main.e37c4834.chunk.js"
   ]
 }
